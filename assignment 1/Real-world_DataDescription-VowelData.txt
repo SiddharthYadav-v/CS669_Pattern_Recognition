@@ -1,0 +1,26 @@
+	Author:Dileep A D
+	Date: 31-08-2023
+
+	Group21-Vowel formants- /i/ /a/ /e/ 
+	Group22-Vowel formants- /o/ /e/ /a/
+	Group20-Vowel formants- /a/ /u/ /i/
+	Group19-Vowel formants- /a/ /i/ /o/
+	Group18-Vowel formants- /e/ /a/ /u/
+	Group17-Vowel formants- /a/ /i/ /o/
+	Group16-Vowel formants- /a/ /u/ /i/
+	Group15-Vowel formants- /a/ /o/ /u/
+	Group14-Vowel formants- /e/ /i/ /o/
+	Group13-Vowel formants- /u/ /i/ /e/
+	Group12-Vowel formants- /e/ /u/ /o/
+	Group11-Vowel formants- /i/ /o/ /u/
+	Group10-Vowel formants- /o/ /e/ /a/
+	Group9-Vowel formants- /u/ /a/ /i/
+	Group8-Vowel formants- /i/ /u/ /o/
+	Group7-Vowel formants- /o/ /u/ /e/
+	Group6-Vowel formants- /u/ /o/ /a/
+	Group5-Vowel formants- /i/ /e/ /u/
+	Group4-Vowel formants- /u/ /a/ /i/
+	Group3-Vowel formants- /e/ /u/ /a/
+	Group2-Vowel formants- /i/ /u/ /a/
+	Group1-Vowel formants- /e/ /i/ /a/
+	
